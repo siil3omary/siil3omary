@@ -106,11 +106,11 @@
 <br/>  
 
 
-## Recent Blog Posts  
-<!-- BLOG-POST-LIST:START -->  
-If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
-<!-- BLOG-POST-LIST:END -->  
+## Projects
 
+
+- [pre-pool-1337](https://github.com/siil3omary/pre-pool-1337)
+- [alx-pre_course](https://github.com/siil3omary/pre-pool-1337)
 <br/>  
 
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31qotndzbbpu5hrnqmpgpcd6mbxu&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=true" /></div>  
@@ -128,4 +128,3 @@ If things goes well, this section should automatically be replaced by a list of 
 <br />
 
 ----
-
