@@ -120,7 +120,10 @@
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=siil3omary&&style=flat-square" align="center" />
 </div>  
-  
+
+   <div align="center">
+  <a href = "https://profile.intra.42.fr/users/ael-bekk" ><img src="https://badge.mediaplus.ma/darkgray/ael-bekk"><a>
+</div>
 
 <br/>  
 
