@@ -104,12 +104,6 @@
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=siil3omary&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
-<div align="center">
-  <a href = "https://profile.intra.42.fr/users/hassankarrach" ><img src="https://badge.mediaplus.ma/darkgray/hassankarrach"><a>
-</div>
-<p align="center">
-<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/black/ael-bekk" alt="ael-bekk's 42 stats" /></a>
-</p>
 
 ## Projects
 
