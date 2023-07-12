@@ -104,7 +104,9 @@
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=siil3omary&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
-
+<div align="center">
+  <a href = "https://profile.intra.42.fr/users/ael-bekk" ><img src="https://badge.mediaplus.ma/darkgray/ael-bekk"><a>
+</div>
 
 ## Projects
 
@@ -121,9 +123,7 @@
 <img src="https://komarev.com/ghpvc/?username=siil3omary&&style=flat-square" align="center" />
 </div>  
 
-   <div align="center">
-  <a href = "https://profile.intra.42.fr/users/ael-bekk" ><img src="https://badge.mediaplus.ma/darkgray/ael-bekk"><a>
-</div>
+   
 
 <br/>  
 
