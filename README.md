@@ -105,7 +105,7 @@
 
 <br/>  
 <div align="center">
-  <a href = "https://profile.intra.42.fr/users/ael-bekk" ><img src="https://badge.mediaplus.ma/darkgray/ael-bekk"><a>
+  <a href = "https://profile.intra.42.fr/users/hassankarrach" ><img src="https://badge.mediaplus.ma/darkgray/hassankarrach"><a>
 </div>
 
 ## Projects
