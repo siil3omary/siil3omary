@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://raw.githubusercontent.com/setiyawan12/setiyawan12/master/dino.gif" align="center" style="width: 100%" />
 </div>  
-<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/levi/hassankarrach" alt="hassankarrach's 42 stats" /></a>
+
   
 
 ### <div align="center">👋 Hello there! I'm Ayman Elomari, a passionate beginner in the world of coding and software development.</div>  
