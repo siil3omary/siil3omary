@@ -114,7 +114,7 @@
 <br/>  
 
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31qotndzbbpu5hrnqmpgpcd6mbxu&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=true" /></div>  
-[![Apple Music GitHub profile](https://music-profile.rayriffy.com/theme/dark.svg?uid=001756.4c7897a1901246f29ed46dd1f7e1d1a6.2214)](https://github.com/rayriffy/apple-music-github-profile)
+
 
 <br/>  
 
