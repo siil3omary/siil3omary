@@ -131,7 +131,4 @@
 <br />
 
 ----
-<div align="center">
 
-<img src=https://github.com/ElmehdiBennix/ElmehdiBennix/blob/output/snake.svg alt="Snake animation" />
-</div>
