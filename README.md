@@ -3,7 +3,8 @@
 </div>  
 <div align="center">
   [![aelomari's 42 stats](https://badge.mediaplus.ma/greenbinary/aelomari)](https://github.com/oakoudad/badge42)
-</div>  
+</div>
+
 ### <div align="center">👋 Hello there! I'm Ayman Elomari, a passionate beginner in the world of coding and software development.</div>  
   
 
