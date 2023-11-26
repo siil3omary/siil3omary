@@ -1,5 +1,6 @@
 <div align="center"> 
 <img src="https://github.com/siil3omary/POOL-1337-42/blob/main/DAYS/img/robert-pattinson-batman.gif?raw=true" align="center" style="width: 500%" />
+  [![aelomari's 42 stats](https://badge.mediaplus.ma/darkblue/aelomari)](https://github.com/oakoudad/badge42)
 </div>  
 
 
