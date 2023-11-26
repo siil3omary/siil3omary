@@ -4,7 +4,7 @@
 </div>  
 
 
-  [![aelomari's 42 stats](https://badge.mediaplus.ma/black/aelomari)](https://github.com/oakoudad/badge42)     
+  [![aelomari's 42 stats](https://badge.mediaplus.ma/Binary/aelomari)](https://github.com/oakoudad/badge42)     
 
 
 ### <div align="center">👋 Hello there! I'm Ayman Elomari, a passionate beginner in the world of coding and software development.</div>  
