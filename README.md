@@ -9,7 +9,7 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=siil3omary&show_icons=true&locale=en&layout=compact" alt="siil3omary" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=siil3omary&show_icons=true" alt="iil3omary" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=siil3omary&show_icons=true&locale=en" alt="siil3omary" /></p>
 
