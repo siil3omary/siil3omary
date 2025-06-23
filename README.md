@@ -1,6 +1,7 @@
 <div align="center">
-  <img src="https://github.com/siil3omary/POOL-1337-42/blob/main/DAYS/img/robert-pattinson-batman.gif?raw=true" width="400" height="300" alt="Batman Coding" />
+  <img src="https://github.com/siil3omary/POOL-1337-42/blob/main/DAYS/img/robert-pattinson-batman.gif?raw=true"  alt="Batman Coding" />
 </div>
+
 # Hi there! 👋 I'm Ahmed El Omari
 
 <div align="center">
