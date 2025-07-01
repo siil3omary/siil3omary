@@ -2,7 +2,7 @@
   <img src="https://github.com/siil3omary/POOL-1337-42/blob/main/DAYS/img/robert-pattinson-batman.gif?raw=true"  alt="Batman Coding" />
 </div>
 
-# Hi there! 👋 I'm Ahmed El Omari
+# Hi there! 👋 I'm Ayman El Omari
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Software+Developer;42+School+Student;Problem+Solver;Code+Enthusiast" alt="Typing SVG" />
