@@ -24,7 +24,7 @@
 
 <div align="center">
   
-  [![aelomari's 42 stats](https://badge.mediaplus.ma/Binary/aelomari)](https://github.com/oakoudad/badge42)
+  [![aelomari's 42 stats](https://badge.mediaplus.ma/Binary/aelomari)]()
   
 </div>
 
