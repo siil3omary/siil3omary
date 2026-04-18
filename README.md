@@ -1,116 +1,79 @@
 <div align="center">
-  <img src="https://github.com/siil3omary/POOL-1337-42/blob/main/DAYS/1772547577827.jpeg?raw=true"  alt="Batman Coding" />
+  <img src="https://github.com/siil3omary/POOL-1337-42/blob/main/DAYS/1772547577827.jpeg?raw=true" width="100%" alt="Banner" />
 </div>
 
-# Hi there! 👋 I'm Ayman El Omari
+# 👨‍💻 Ayman Elomari
+### Full Stack Software Engineer | 42 Network (1337)
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Software+Developer;42+School+Student;Problem+Solver;Code+Enthusiast" alt="Typing SVG" />
-</div>
-
-
----
-
-## 🎯 About Me
-
-- 🔭 Currently working on **42 School Projects**
-- 🌱 Learning **System Programming & Algorithms**
-- 💬 Ask me about **C/C++, Data Structures, and Problem Solving**
-- ⚡ Fun fact: **I debug with the intensity of Batman**
-
----
-
-## 🏆 42 School Progress
-
-<div align="center">
-  
-  [![aelomari's 42 stats](https://badge.mediaplus.ma/Binary/aelomari)]()
-  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Full+Stack+Specialist;High-Concurrency+Systems;Go+%2B+NestJS+%2B+TypeScript;Docker+%26+Microservices" alt="Typing SVG" />
 </div>
 
 ---
 
-## 📊 GitHub Statistics
+## ⚡ About Me
+
+I am a Software Engineering student at **1337 Coding School** and **UM6P**, recently validated the **Common Core**. I specialize in building scalable, high-concurrency applications and low-level systems. My focus is on mastering every detail—from the byte-level logic of C++ to the distributed architecture of modern web apps.
+
+- 🛠️ **Currently Building**: A high-performance collaborative whiteboard (Transcendence) using `tldraw` and microservices.
+- 🏗️ **Core Stack**: Go, NestJS, React, TypeScript, and PostgreSQL (Prisma).
+- 🐧 **Systems & DevOps**: Proficient in Docker orchestration, Nginx, and Linux Kernel basics.
+- 🏛️ **Leadership**: Secretary General at **Ucraft Club**, driving student innovation and tech events.
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+### 🌐 Backend & Systems
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![NestJS](https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### 🎨 Frontend & Design
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### ⚙️ DevOps & Cloud
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+## 🏆 42 School Progress & Stats
 
 <div align="center">
+  <img src="https://badge.mediaplus.ma/Binary/aelomari" alt="aelomari's 42 stats" />
+  <br><br>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=siil3omary&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siil3omary&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=siil3omary&theme=tokyonight" alt="GitHub Streak Stats" />
-</div>
-
 ---
 
-## ⏱️ Coding Activity
+## 🎯 Featured Project: Transcendence
+> **A real-time collaborative whiteboard engine.**
+- **Tech**: NestJS, Go, WebSockets, tldraw, Docker.
+- **Goal**: Mastering data synchronization and high-concurrency backend logic.
+- [View Repository](https://github.com/siil3omary) ---
+
+## 🤝 Connect With Me
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=siil3omary&theme=tokyonight&layout=compact" alt="WakaTime Stats" />
-</div>
-
----
-
-## 🛠️ Technologies & Tools
-
-<div align="center">
-  
-  ![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white)
-  ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-  ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-  ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-  ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-  ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-  
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=siil3omary&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
-</div>
-
----
-
-## 🏆 GitHub Achievements
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=siil3omary&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
-</div>
-
----
-
-## 🎯 Top Repositories
-
-<div align="center">
-  <a href="https://github.com/siil3omary/POOL-1337-42">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=siil3omary&repo=POOL-1337-42&theme=tokyonight" alt="Pool 1337-42" />
+  <a href="https://linkedin.com/in/ayman-elomari">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:ayman.elomari@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
 
----
-
-## 📞 Connect With Me
+<br>
 
 <div align="center">
-  
-  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-  [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
-  [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://your-portfolio.com)
-  
-</div>
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=siil3omary&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
-</div>
-
-<div align="center">
-  
-  **"Code is like humor. When you have to explain it, it's bad."** - Cory House
-  
+  <img src="https://komarev.com/ghpvc/?username=siil3omary&color=00D9FF&style=flat-square&label=Profile+Views" alt="Profile Views" />
+  <p><i>"The best way to predict the future is to code it."</i></p>
 </div>
