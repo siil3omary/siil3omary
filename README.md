@@ -46,10 +46,9 @@ I am a Software Engineering student at **1337 Coding School** and **UM6P**, rece
 ## 🏆 42 School Progress & Stats
 
 <div align="center">
-  <img src="https://badge.mediaplus.ma/Binary/aelomari" alt="aelomari's 42 stats" />
-  <br><br>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=siil3omary&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siil3omary&layout=compact&langs_count=8&theme=tokyonight"/>
+
+  [![aelomari's 42 stats](https://badge.mediaplus.ma/Binary/aelomari)]()
+
 </div>
 
 ---
