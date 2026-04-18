@@ -63,10 +63,10 @@ I am a Software Engineering student at **1337 Coding School** and **UM6P**, rece
 ## 🤝 Connect With Me
 
 <div align="center">
-  <a href="https://linkedin.com/in/ayman-elomari">
+  <a href="https://www.linkedin.com/in/ayman-el-omari/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:ayman.elomari@example.com">
+  <a href="mailto:l3omary@icloud.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
