@@ -18,7 +18,6 @@ I am a Software Engineering student at **1337 Coding School** and **UM6P**, rece
 - 🛠️ **Currently Building**: A high-performance collaborative whiteboard (Transcendence) using `tldraw` and microservices.
 - 🏗️ **Core Stack**: Go, NestJS, React, TypeScript, and PostgreSQL (Prisma).
 - 🐧 **Systems & DevOps**: Proficient in Docker orchestration, Nginx, and Linux Kernel basics.
-- 🏛️ **Leadership**: Secretary General at **Ucraft Club**, driving student innovation and tech events.
 
 ---
 
